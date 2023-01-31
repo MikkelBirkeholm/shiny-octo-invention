@@ -13,7 +13,7 @@ function addMe(x, y) {
 }
 
 function functionThree(finalResult) {
-    console.log(finalResult)
+    console.log('The answer to life, the universe and everything is:', finalResult)
 }
 
-functionOne(12, 23)
+functionOne(12, 30)
